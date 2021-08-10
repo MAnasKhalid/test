@@ -6,6 +6,7 @@
 
 def print_hi(name):
     a = f'new tag 2.0 made a change 4 dev'
+    b = f'test regex 2.1'
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name} {name} {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print(f'Hi, {name} {name} {name}')  # Press Ctrl+F8 to toggle the breakpoint.
